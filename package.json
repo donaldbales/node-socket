@@ -1,0 +1,11 @@
+{
+  "name": "node-socket",
+  "version": "0.0.0",
+  "description": "Experimental program to help understand Node.js' Socket class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donald J. Bales",
+  "license": "Apache-2.0"
+}
